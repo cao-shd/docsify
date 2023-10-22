@@ -1,0 +1,1 @@
+* [CENTOS 安装](/docs/system/centos)
